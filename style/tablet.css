@@ -1,0 +1,60 @@
+/* Headr */
+#header {
+  height: 75px;
+}
+
+/* Section: Hero */
+
+#hero {
+  height: 80vh;
+}
+
+#hero h1 {
+  padding-top: 35%;
+}
+
+#header .logo {
+  width: 15%;
+}
+
+/* Section: Services */
+#section h3 {
+  font-size: 3rem;
+}
+
+#section #container {
+  width: 80%;
+}
+
+/* Section: About Us */
+#about-us #wrapper {
+  display: flex;
+}
+
+#about-us #wrapper h2,
+#about-us #wrapper p {
+  text-align: left;
+  flex: 1;
+  padding: 1rem;
+}
+
+#about-us #wrapper p {
+  font-size: 1.2rem;
+}
+
+#about-us .aboutus img {
+  width: 50%;
+  height: 80%;
+  display: inline-block;
+}
+
+/* Section: Contact and Location */
+
+#con-loc .contact-item iframe {
+  height: 30rem;
+}
+
+/* Footer */
+footer {
+  height: 100%;
+}
